@@ -1,1 +1,5 @@
-venv
+# MLflow runs directory
+mlruns/
+
+# Ignore all subdirectories and files within mlruns
+mlruns/**/*
