@@ -18,10 +18,9 @@
 2. 🔬 [Data Preparation and Model Training](#2-data-preparation-and-model-training)
 3. 📈 [MLflow Tracking](#3-mlflow-tracking)
 4. 🖥️ [Viewing Results](#4-viewing-results)
-5. 🏆 [Conclusion](#conclusion)
-6. 💡 [Project Motivation](#project-motivation)
-7. 🎯 [Importance and Problem Solving](#importance-and-problem-solving)
-
+5. 💡 [Project Motivation](#project-motivation)
+6. 🎯 [Importance and Problem Solving](#importance-and-problem-solving)
+7. 🏆 [Conclusion](#conclusion)
 
 ## Introduction:
 
