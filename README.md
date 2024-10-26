@@ -121,7 +121,8 @@ Setting up the environment for MLflow involves several steps:
 
 **The integration of MLflow in this project is crucial for several reasons:**
 
-**
+***
+
 1. Reproducibility: MLflow solves the challenge of reproducing machine learning experiments by tracking all parameters, code versions, and data used in each run.
 
 2. Collaboration: It enables seamless collaboration among team members by providing a centralized platform for sharing experiments and results.
@@ -136,7 +137,7 @@ Setting up the environment for MLflow involves several steps:
 
 7. Scalability: As projects grow in complexity, MLflow provides a scalable solution for managing an increasing number of experiments and models.
 
-**
+***
 
 ## What has achieved by implementing this Project :
 
